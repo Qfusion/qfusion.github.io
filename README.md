@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Qfusion
 
-You can use the [editor on GitHub](https://github.com/Qfusion/qfusion.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Core resources
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Qfusion engine repository](https://github.com/Qfusion/qfusion/)
 
-### Markdown
+[Angelscripts repository](https://github.com/Qfusion/asprogs/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[GLSL shaders repository](https://github.com/Qfusion/glsl/)
 
-```markdown
-Syntax highlighted code block
+[LibRocket UI repository](https://github.com/Qfusion/rocketui/)
 
-# Header 1
-## Header 2
-### Header 3
+[HUD scripts repository](https://github.com/Qfusion/hud/)
 
-- Bulleted
-- List
+[Localization strings repository](https://github.com/Qfusion/l10n/)
 
-1. Numbered
-2. List
+[warmama repository](https://github.com/Qfusion/warmama/)
 
-**Bold** and _Italic_ and `Code` text
+## Wiki
 
-[Link](url) and ![Image](src)
-```
+[Qfusion Wiki](https://github.com/Qfusion/qfusion/wiki)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Tools
 
-### Jekyll Themes
+[pk3checksum](https://github.com/Qfusion/l10n/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qfusion/qfusion.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[shadermapminigui](https://github.com/Qfusion/shadermapminigui/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
